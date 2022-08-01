@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.9.3-1
 file_blobs:
   README.md: 93a078d1c3f76aa1ca11def8f882a06df1d4a01b
-  LICENSE: 62fa6c8198c4d67fcf0b69be1b344b1ddfd05322
+  LICENSE: 0facc4b4d0782ede53bb9096a049ca569d01c05c
 ---
 
 dsdsfdsaf 
@@ -32,12 +32,26 @@ dsdsfdsaf
 ⬜ 2      
 ⬜ 3      Copyright (c) 2022 pobasi5492
 ⬜ 4      
-🟩 5      Permission is hereby granted, free of charge, to any person obtaining a copy
-🟩 6      of this software and associated documentation files (the "Software"), to deal
-🟩 7      in the Software without restriction, including without limitation the rights
-⬜ 8      to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-⬜ 9      copies of the Software, and to permit persons to whom the Software is
-⬜ 10     furnished to do so, subject to the following conditions:
+🟩 5      
+🟩 6      My Permission is hereby granted, free of charge, to any person obtaining a copy
+🟩 7      of this software Yarden and associated documentation files (the "Software"), to deal
+⬜ 8      
+⬜ 9      in the Software without restriction, including without limitation the rights
+⬜ 10     
+```
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 LICENSE
+```
+⬜ 17     The above copyright notice and this permission notice shall be included in all
+⬜ 18     copies or substantial portions of the Software.
+⬜ 19     
+🟩 20     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+⬜ 21     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+⬜ 22     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+⬜ 23     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 ```
 
 <br/>
